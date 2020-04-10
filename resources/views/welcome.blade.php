@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Cleaver
+                    Something
                 </div>
 
                 <div class="links">
